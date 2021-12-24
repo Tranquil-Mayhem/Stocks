@@ -1,4 +1,3 @@
-//Jamie Gashler
 //JAVA Programming I
 //HW 4 - Trades
 
